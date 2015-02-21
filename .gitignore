@@ -27,3 +27,6 @@ proguard/
 
 # classpath
 .classpath
+
+# raw .fla files
+raw/
