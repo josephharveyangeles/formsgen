@@ -22,6 +22,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.creosoft.ext.formsgen.Limbo_formsgen"
+            android:label="@string/title_activity_limbo_formsgen" >
+        </activity>
+        <activity
+            android:name="com.creosoft.ext.formsgen.Landing_formsgen"
+            android:label="@string/title_activity_landing_formsgen" >
+        </activity>
     </application>
 
 </manifest>

@@ -4,5 +4,8 @@
     <string name="app_name">FormsGen</string>
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_launcher_formsgen">Launcher_formsgen</string>
+    <string name="splashlogo">Splash Logo</string>
+    <string name="title_activity_limbo_formsgen">Limbo_formsgen</string>
+    <string name="title_activity_landing_formsgen">Landing_formsgen</string>
 
 </resources>
