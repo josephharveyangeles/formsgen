@@ -3,6 +3,7 @@
 	<name>FormsGen</name>
 	<comment></comment>
 	<projects>
+		<project>Hecate</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
